@@ -3,6 +3,7 @@ import Root from "../layout/Root";
 import Home from "../pages/Home/Home";
 import About from "../pages/About/About";
 import Portfolio from "../pages/Portfolio/Portfolio";
+import Skills from "../pages/Skills/Skills";
 
 const router = createBrowserRouter([
   {
@@ -18,8 +19,12 @@ const router = createBrowserRouter([
         element: <About />,
       },
       {
-        path: "portfolio",
+        path: "/portfolio",
         element: <Portfolio />,
+      },
+      {
+        path: "/skills",
+        element: <Skills />,
       },
     ],
   },

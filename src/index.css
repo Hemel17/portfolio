@@ -1,0 +1,8 @@
+/* google font - VT323 */
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+/* tailwindcss */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+

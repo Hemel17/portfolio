@@ -37,7 +37,7 @@ const About = () => {
           nam id omnis laborum.
         </Typography>
       </div>
-      <Button className="font-vt bg-secondary hover:bg-primary hover:text-black text-lg tracking-wide lowercase mt-5 md:mt-10 mb-16 md:mb-24">
+      <Button className="font-vt bg-secondary text-lg tracking-wider lowercase mt-5 md:mt-10 mb-16 md:mb-24">
         &#123;read_more&#125;
       </Button>
     </div>

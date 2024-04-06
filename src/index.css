@@ -6,3 +6,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* custom placeholder color */
+.placeholder-color::placeholder{
+    color: rgb(0,207,93);
+}

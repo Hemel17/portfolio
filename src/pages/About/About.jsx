@@ -3,7 +3,7 @@ import { Button, Typography } from "@material-tailwind/react";
 const About = () => {
   return (
     <div className="text-center w-[90%] mx-auto">
-      <Typography className="font-vt text-secondary text-2xl mt-16 md:mt-24">
+      <Typography className="font-vt text-secondary text-2xl">
         &#123;&#47;&#125;
       </Typography>
       <Typography
@@ -37,7 +37,7 @@ const About = () => {
           nam id omnis laborum.
         </Typography>
       </div>
-      <Button className="font-vt bg-secondary hover:bg-primary hover:text-black text-lg tracking-wide lowercase my-5 md:my-10">
+      <Button className="font-vt bg-secondary hover:bg-primary hover:text-black text-lg tracking-wide lowercase mt-5 md:mt-10 mb-16 md:mb-24">
         &#123;read_more&#125;
       </Button>
     </div>

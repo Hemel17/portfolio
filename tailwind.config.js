@@ -8,7 +8,7 @@ module.exports = withMT({
         vt: "VT323, monospace",
       },
       colors: {
-        primary: "#fbbf24",
+        primary: "#fcd34d",
         secondary: "rgb(0,207,93)",
       },
     },

@@ -31,7 +31,7 @@ const TypeWriter = () => {
         &#34;&#125;{" "}
       </Typography>
 
-      <Typography className="text-center mt-20 md:mt-24 text-3xl animate-bounce rotate-180">
+      <Typography className="text-center my-20 md:my-24 text-3xl animate-bounce rotate-180">
         <Link to="about">&#8659;</Link>
       </Typography>
     </>
